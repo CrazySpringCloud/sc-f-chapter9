@@ -1,3 +1,5 @@
+#### 本项目包含 Finchley版本 第九篇 的内容
+
 ### Quick Start
 #### 1.运行 zipkin server的jar包：java -jar zipkin-server-2.10.1-exec.jar
 #### 2.访问浏览器 http://localhost:9411  即zipkin的管理页面
@@ -7,4 +9,3 @@
 
 
 #### 说明：在spring Cloud为F版本的时候，已经不需要自己构建Zipkin Server了，只需要下载jar即可
-#### 本项目包含 Finchley版本 第九篇 的内容
